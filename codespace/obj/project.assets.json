@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\Arthur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Develop-conditional-branching-and-looping-structures-in-C-/codespace/codespace.csproj",
+      "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\NovoPortfolio\\Develop-conditional-branching-and-looping-structures-in-C-\\codespace\\codespace.csproj",
       "projectName": "codespace",
-      "projectPath": "/workspaces/Develop-conditional-branching-and-looping-structures-in-C-/codespace/codespace.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Develop-conditional-branching-and-looping-structures-in-C-/codespace/obj/",
+      "projectPath": "C:\\Users\\Arthur\\Desktop\\NovoPortfolio\\Develop-conditional-branching-and-looping-structures-in-C-\\codespace\\codespace.csproj",
+      "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Arthur\\Desktop\\NovoPortfolio\\Develop-conditional-branching-and-looping-structures-in-C-\\codespace\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.202/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
